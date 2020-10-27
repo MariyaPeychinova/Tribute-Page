@@ -1,0 +1,55 @@
+body {
+  text-align: center;
+  display: flex;
+  font-family: Verdana, Arial, sans-serif;
+}
+
+section {
+  margin: auto;
+  width: 99%
+  padding: 20px;
+  border-radius: 5px;
+  background-color: #aaaaaa;
+}
+
+main {
+margin-bottom: 100px;
+}
+
+header main h1 {
+margin-top: 100px;
+font-size: 40px;
+}
+
+header main p {
+  font-weight: bold;
+}
+
+#img-div {
+margin: 50px 20px 100px 20px;
+background-color: white;
+padding: 150px 150px 50px 150px;
+}
+
+header main div img {
+  width: 1200px;
+  position: relative;
+  text-align: center;
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+#img-caption {
+margin-top: 50px;
+}
+
+header main blockquote {
+  margin-bottom: 50px;
+}
+
+header div ul {
+  text-align: left;
+  list-style: none;
+  margin: 50px 300px 50px 300px;
+}
